@@ -6,16 +6,16 @@ export default {
     },
     contenidoInstruccional: [
       {
-        nombre: 'Manuel Augusto Arias López',
-        cargo: 'Experto temático',
-        centro: 'Centro de Comercio y Turismo ',
-        regional: 'Regional Quindío',
+        nombre: 'Rafael Neftalí Lizcano Reyes.',
+        cargo: 'Apoyo a los procesos de producción y contenido instruccional',
+        centro: 'Centro Industrial del Diseño y la Manufactura ',
+        regional: 'Regional Santander',
       },
       {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Evaluadora Instruccional',
-        centro: 'Centro para la Industria de la Comunicación Gráfica ',
-        regional: 'Regional Distrito Capital',
+        nombre: 'Manuel Augusto Arias López',
+        cargo: 'Instructor-Experto temático',
+        centro: 'Centro de Comercio y Turismo ',
+        regional: 'Regional Quindío',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
@@ -24,10 +24,16 @@ export default {
         regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'Rafael Neftalí Lizcano Reyes.',
-        cargo: 'Apoyo a los procesos de producción y contenido instruccional',
-        centro: 'Centro Industrial del Diseño y la Manufactura ',
-        regional: 'Regional Santander',
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica ',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital López',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica ',
+        regional: 'Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -40,8 +46,8 @@ export default {
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Integración de recursos y pruebas',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
       },
       {
         nombre: 'Yuli Marcela Gómez',
@@ -50,7 +56,12 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: ['Carmen Martínez'],
+        nombre: [
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Ludwyng Corzo García',
+          'Maria Carolina Tamayo López',
+          'Wilson Andrés Arenales Caceres',
+        ],
         cargo: 'Producción Audiovisual',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
@@ -58,6 +69,12 @@ export default {
       {
         nombre: 'Camilo Andres Bolaño Rey',
         cargo: 'Diseño y Desarrollo Front-End',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: 'María Isabel Rueda Román',
+        cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
