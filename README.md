@@ -1,8 +1,8 @@
-# **sena-base-info-2021 v1.1.0**
+# **Tecnología en Desarrollo Publicitario - Información del programa**
 
 ## **Enlace GitHubPages**
 
-[https://github.com/ECORED-SENA/ECORED-BASE-INFO-2021](https://github.com/ECORED-SENA/ECORED-BASE-INFO-2021)
+[https://ecored-sena.github.io/522306_INFO_TECNOLOGIA_DESARROLLO_PUBLICITARIO/](https://ecored-sena.github.io/522306_INFO_TECNOLOGIA_DESARROLLO_PUBLICITARIO/)
 
 #
 
