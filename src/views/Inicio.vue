@@ -13,80 +13,20 @@ section
           .banner-principal__datos
             ul
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
+                p.h4.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
                 p.banner-principal__datos__item__texto Tecnología en Desarrollo Publicitario
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
+                p.h4.mb-0.me-3.banner-principal__datos__item__titulo Código: 
                 p.banner-principal__datos__item__texto 124100
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
+                p.h4.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
                 p.banner-principal__datos__item__texto 3120 horas
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
+                p.h4.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
                 p.banner-principal__datos__item__texto 27 meses
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
-                p.banner-principal__datos__item__texto Virtual
-              li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Requisito de ingreso: 
-                .banner-principal__datos__item__texto
-                  ul.lista-ul
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Nivel Académico: 
-                        b-none Media Académica
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Curso: 
-                        b-none Undécimo.
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Formación para el Trabajo y el Desarrollo Humano: 
-                        b-none No.
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Número de horas: 
-                        b-none No.
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Requiere Certificación Académica: 
-                        b-none Sí.
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Requiere Experiencia Laboral: 
-                        b-none 
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b No.
-                        b-none 
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Edad Mínima Definida en la Ley: 
-                        b-none 14 años. 
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Requisitos Adicionales: 
-                        b-none Título de bachiller o su equivalente validación aprobada por la entidad competente. Acreditar presentación del examen de estado de la educación media y los establecidos por el programa de formación.
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Restricciones de ingreso soportadas en la legislación vigente:
-                        b-none No existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.  
-                    li
-                      i.lista-ul__vineta
-                      p
-                        b Aspectos actitudinales, motivacionales y de interés:
-                        b-none Relaciones interpersonales con su equipo de trabajo y con el cliente. Autocontrol. Responsabilidad de tipo personal, social y laboral. Tolerancia ante las diferentes situaciones. Solidaridad con sus compañeros de trabajo y el público en general. Alteridad ante los cambios que se presentan en su entorno. Valores éticos universales. Comunicación asertiva con los integrantes del equipo de trabajo. Capacidad de resolución de problemas. Creatividad.
-
+                p.h4.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
+                p.banner-principal__datos__item__texto Virtual              
 
 
         .d-none.d-lg-block.col-lg-5
@@ -177,8 +117,8 @@ section
       li.mb-0
         i.lista-ul__vineta
         p
-          b Nivel Académico: 
-          b-none Media Académica
+          b Nivel académico: 
+          b-none media académica
       li.mb-0
         i.lista-ul__vineta
         p
@@ -187,7 +127,7 @@ section
       li.mb-0
         i.lista-ul__vineta
         p
-          b Formación para el Trabajo y el Desarrollo Humano: 
+          b Formación para el trabajo y el desarrollo humano: 
           b-none No.
       li.mb-0
         i.lista-ul__vineta
@@ -197,27 +137,22 @@ section
       li.mb-0
         i.lista-ul__vineta
         p
-          b Requiere Certificación Académica: 
+          b Requiere certificación académica: 
           b-none Sí.
       li.mb-0
         i.lista-ul__vineta
         p
-          b Requiere Experiencia Laboral: 
-          b-none 
+          b Requiere experiencia laboral: 
+          b-none No      
       li.mb-0
         i.lista-ul__vineta
         p
-          b No.
-          b-none 
-      li.mb-0
-        i.lista-ul__vineta
-        p
-          b Edad Mínima Definida en la Ley: 
+          b Edad mínima definida en la ley: 
           b-none 14 años. 
       li.mb-0
         i.lista-ul__vineta
         p
-          b Requisitos Adicionales: 
+          b Requisitos adicionales: 
           b-none Título de bachiller o su equivalente validación aprobada por la entidad competente. Acreditar presentación del examen de estado de la educación media y los establecidos por el programa de formación.
       li.mb-0
         i.lista-ul__vineta
