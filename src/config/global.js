@@ -45,13 +45,13 @@ export default {
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Integración de recursos y pruebas',
+        cargo: 'Soporte Organizacional',
         centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
       {
         nombre: 'Zuleidy Maria Ruiz Torres',
-        cargo: 'Integración de recursos y pruebas',
+        cargo: 'Producción Audiovisual',
         centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },

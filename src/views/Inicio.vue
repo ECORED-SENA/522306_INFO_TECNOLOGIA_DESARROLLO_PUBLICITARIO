@@ -41,7 +41,7 @@ section
     p El programa, Tecnología en Desarrollo Publicitario está enfocado en los procesos de publicidad y comunicación. Sus egresados serán competentes en el desarrollo de acciones de estructuración de la estrategia de mercadeo digital, preparación de campañas y piezas publicitarias, fortaleciendo el manejo de la imagen y comunicación corporativa, y en ordenar e interpretar la información específica de las actividades de publicidad y mercadeo de una organización. Su ocupación estará encaminada en ofrecer soporte en la implementación de campañas y gestionar planes de comunicación empresariales en los diferentes sectores de la economía colombiana.
       br
       br
-      |Por este motivo, a lo largo del programa de formación se desarrollarán actividades que permiten llevar a cabo el proyecto formativo: Desarrollo de soluciones publicitarias para las MiPymes de la región, creando evidencias que apuntan a este fin.
+      |Por este motivo, a lo largo del programa de formación se desarrollarán actividades que permiten llevar a cabo el proyecto formativo: desarrollo de soluciones publicitarias para las MiPymes de la región, creando evidencias que apuntan a este fin.
       br
       br
       |De igual manera, se desarrollarán unidades temáticas que abordan diferentes temas necesarios para quienes deseen ser expertos en publicidad, implicando con ello, todos los procesos que esto requiere.
