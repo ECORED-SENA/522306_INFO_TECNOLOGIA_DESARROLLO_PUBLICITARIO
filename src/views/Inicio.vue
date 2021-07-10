@@ -26,7 +26,7 @@ section
                 p.banner-principal__datos__item__texto 27 meses
               li.mb-3.banner-principal__datos__item
                 p.h4.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
-                p.banner-principal__datos__item__texto Virtual              
+                p.banner-principal__datos__item__texto virtual              
 
 
         .d-none.d-lg-block.col-lg-5
@@ -123,27 +123,27 @@ section
         i.lista-ul__vineta
         p
           b Curso: 
-          b-none Undécimo.
+          b-none undécimo.
       li.mb-0
         i.lista-ul__vineta
         p
           b Formación para el trabajo y el desarrollo humano: 
-          b-none No.
+          b-none no.
       li.mb-0
         i.lista-ul__vineta
         p
           b Número de horas: 
-          b-none No.
+          b-none no.
       li.mb-0
         i.lista-ul__vineta
         p
           b Requiere certificación académica: 
-          b-none Sí.
+          b-none sí.
       li.mb-0
         i.lista-ul__vineta
         p
           b Requiere experiencia laboral: 
-          b-none No      
+          b-none no      
       li.mb-0
         i.lista-ul__vineta
         p
@@ -153,17 +153,17 @@ section
         i.lista-ul__vineta
         p
           b Requisitos adicionales: 
-          b-none Título de bachiller o su equivalente validación aprobada por la entidad competente. Acreditar presentación del examen de estado de la educación media y los establecidos por el programa de formación.
+          b-none título de bachiller o su equivalente validación aprobada por la entidad competente. Acreditar presentación del examen de estado de la educación media y los establecidos por el programa de formación.
       li.mb-0
         i.lista-ul__vineta
         p
           b Restricciones de ingreso soportadas en la legislación vigente:
-          b-none No existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.  
+          b-none  no existe legislación que establezca restricciones de ingreso a nivel de discapacidad física y cognitiva.  
       li.mb-0
         i.lista-ul__vineta
         p
           b Aspectos actitudinales, motivacionales y de interés:
-          b-none Relaciones interpersonales con su equipo de trabajo y con el cliente. Autocontrol. Responsabilidad de tipo personal, social y laboral. Tolerancia ante las diferentes situaciones. Solidaridad con sus compañeros de trabajo y el público en general. Alteridad ante los cambios que se presentan en su entorno. Valores éticos universales. Comunicación asertiva con los integrantes del equipo de trabajo. Capacidad de resolución de problemas. Creatividad.
+          b-none  relaciones interpersonales con su equipo de trabajo y con el cliente. Autocontrol. Responsabilidad de tipo personal, social y laboral. Tolerancia ante las diferentes situaciones. Solidaridad con sus compañeros de trabajo y el público en general. Alteridad ante los cambios que se presentan en su entorno. Valores éticos universales. Comunicación asertiva con los integrantes del equipo de trabajo. Capacidad de resolución de problemas. Creatividad.
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
     .titulo__template--a.mb-4
       span.h4 5. Perfil<br>de egreso
