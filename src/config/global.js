@@ -50,10 +50,10 @@ export default {
         regional: 'Regional Tolima',
       },
       {
-        nombre: 'Yuli Marcela Gómez',
-        cargo: 'Evaluadora de contenido y diseño web',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Integración de recursos y pruebas',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
       },
       {
         nombre: [
