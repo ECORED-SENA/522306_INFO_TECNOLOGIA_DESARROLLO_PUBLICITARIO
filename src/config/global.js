@@ -7,7 +7,7 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes.',
-        cargo: 'Apoyo a los procesos de producción y contenido instruccional',
+        cargo: 'Asesor metodológico y pedagógico',
         centro: 'Centro Industrial del Diseño y la Manufactura ',
         regional: 'Regional Santander',
       },
